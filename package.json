@@ -1,0 +1,26 @@
+{
+  "name": "mbed-js-spi",
+  "version": "1.0.0",
+  "description": " SPI library wrappers for Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syed-zeeshan/mbed-js-spi.git"
+  },
+  "keywords": [
+    "mbed",
+    "js",
+    "spi",
+    "st",
+    "mbed-os"
+  ],
+  "author": "ST",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syed-zeeshan/mbed-js-spi/issues"
+  },
+  "homepage": "https://github.com/syed-zeeshan/mbed-js-spi#readme"
+}
