@@ -3,7 +3,7 @@ JavaScript wrappers for SPI by STMircroelectronics.
 
 
 ## About library
-Helper class providing functions for SPI library (part of [X_NUCLEO_COMMON](https://os.mbed.com/teams/ST/code/X_NUCLEO_COMMON/)) in JavaScript.
+Helper class providing functions for DevSPI library (part of [X_NUCLEO_COMMON](https://os.mbed.com/teams/ST/code/X_NUCLEO_COMMON/)) in JavaScript.
 
 ## Requirements
 This library is to be used with the following tools:
