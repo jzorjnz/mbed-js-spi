@@ -34,7 +34,7 @@ Install this library first if using I2C for connecting with the following device
 // To initialize SPI with mosi, miso, sclk pins
 var spi = SPI(mosi_pin, miso_pin, sclk_pin);
 
-//sample (Nucleo-F429ZI)
+//sample (Nucleo-F476RG)
 var spi = SPI(PB_15, NC, PB_13);
 
 ```
